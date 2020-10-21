@@ -1,0 +1,17 @@
+D:\TUGAS\Semester 3\Pemrograman Lanjut\TheCashier\TheCashier\TheCashier\bin\Debug\netcoreapp3.1\TheCashier.exe
+D:\TUGAS\Semester 3\Pemrograman Lanjut\TheCashier\TheCashier\TheCashier\bin\Debug\netcoreapp3.1\TheCashier.deps.json
+D:\TUGAS\Semester 3\Pemrograman Lanjut\TheCashier\TheCashier\TheCashier\bin\Debug\netcoreapp3.1\TheCashier.runtimeconfig.json
+D:\TUGAS\Semester 3\Pemrograman Lanjut\TheCashier\TheCashier\TheCashier\bin\Debug\netcoreapp3.1\TheCashier.runtimeconfig.dev.json
+D:\TUGAS\Semester 3\Pemrograman Lanjut\TheCashier\TheCashier\TheCashier\bin\Debug\netcoreapp3.1\TheCashier.dll
+D:\TUGAS\Semester 3\Pemrograman Lanjut\TheCashier\TheCashier\TheCashier\bin\Debug\netcoreapp3.1\TheCashier.pdb
+D:\TUGAS\Semester 3\Pemrograman Lanjut\TheCashier\TheCashier\TheCashier\obj\Debug\netcoreapp3.1\TheCashier.csprojAssemblyReference.cache
+D:\TUGAS\Semester 3\Pemrograman Lanjut\TheCashier\TheCashier\TheCashier\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+D:\TUGAS\Semester 3\Pemrograman Lanjut\TheCashier\TheCashier\TheCashier\obj\Debug\netcoreapp3.1\App.g.cs
+D:\TUGAS\Semester 3\Pemrograman Lanjut\TheCashier\TheCashier\TheCashier\obj\Debug\netcoreapp3.1\TheCashier_MarkupCompile.cache
+D:\TUGAS\Semester 3\Pemrograman Lanjut\TheCashier\TheCashier\TheCashier\obj\Debug\netcoreapp3.1\TheCashier_MarkupCompile.lref
+D:\TUGAS\Semester 3\Pemrograman Lanjut\TheCashier\TheCashier\TheCashier\obj\Debug\netcoreapp3.1\MainWindow.baml
+D:\TUGAS\Semester 3\Pemrograman Lanjut\TheCashier\TheCashier\TheCashier\obj\Debug\netcoreapp3.1\TheCashier.g.resources
+D:\TUGAS\Semester 3\Pemrograman Lanjut\TheCashier\TheCashier\TheCashier\obj\Debug\netcoreapp3.1\TheCashier.AssemblyInfoInputs.cache
+D:\TUGAS\Semester 3\Pemrograman Lanjut\TheCashier\TheCashier\TheCashier\obj\Debug\netcoreapp3.1\TheCashier.AssemblyInfo.cs
+D:\TUGAS\Semester 3\Pemrograman Lanjut\TheCashier\TheCashier\TheCashier\obj\Debug\netcoreapp3.1\TheCashier.dll
+D:\TUGAS\Semester 3\Pemrograman Lanjut\TheCashier\TheCashier\TheCashier\obj\Debug\netcoreapp3.1\TheCashier.pdb
